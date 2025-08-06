@@ -1,8 +1,8 @@
-<h2 align="left">Hello World !, I'm Gabriel, a strange 16-year-old teenager lost in this crazy world</h2>
+<h2 align="left">Hello everyone !, I'm Gabriel, a 16-year-old teenager creating his own tech-world...</h2>
 
 ###
 
-<p align="left">💾 Currently working on on an ai assistant<br>📚 Studying in High School<br>👨‍💻Started coding 7 years ago</p>
+<p align="left">💾 Currently working on my HomeLab and my future<br>📚 Currently in High School<br>👨‍💻Started tech 10 years ago</p>
 
 ###
 
